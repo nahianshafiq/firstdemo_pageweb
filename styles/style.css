@@ -1,0 +1,30 @@
+p {
+    font-size: 16px; /*css comment */
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color:gold;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px gray;
+}
+#firstImage {
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+}
+
+html{
+    font-family: 'Open Sans', sans-serif;
+    background-color: honeydew;
+}
+
+body{
+    border: 5px black;
+    background-color: blanchedalmond;
+}
+
+#devCon {
+    text-align: center; /*not working*/
+}
